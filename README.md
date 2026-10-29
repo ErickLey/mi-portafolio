@@ -20,12 +20,12 @@ Estudiante de Diseno y Desarrollo de Software en Tecsup.
 
 - [x] Laboratorio 01: Git basico
 - [x] Laboratorio 03: Trabajo colaborativo
-- [ ] Laboratorio 04: Markdown
+- [x] Laboratorio 04: Markdown
 ## Enlaces utiles
 
 - [Guia oficial de Markdown](https://www.markdownguide.org/)
 - [Mi perfil de GitHub](https://github.com/ErickLey)
-
+- [Guia del laboratorio 03](docs/GUIA.md)
 ## Captura de mi trabajo
 
 ![Pantalla principal del proyecto](img/captura.png)
